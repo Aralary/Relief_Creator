@@ -1,0 +1,12 @@
+timm
+opencv-python
+matplotlib
+numpy
+pillow
+tqdm
+scipy
+ipykernel
+plotly
+nbformat
+ipywidgets
+psutil
